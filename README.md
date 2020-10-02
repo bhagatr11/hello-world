@@ -1,4 +1,4 @@
 # hello-world
-First repository
+First repo
 
-Hi there, My name's Ravi and I like Java, C, C++, HTML, CSS, JavaScript and I am really excited to start a journey of Computer Science.
+Made this repo by following a tutorial by GitHub itself.
